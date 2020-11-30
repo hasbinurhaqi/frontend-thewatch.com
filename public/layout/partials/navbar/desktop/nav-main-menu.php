@@ -40,24 +40,24 @@
                   <a href="#page-top"></a>
                </li>
                <li id="watches">
-                  <a id="watches" class="page-scroll gotham-light fsize-14 pleft0" href="/watches/all-product">JAM TANGAN</a>
+                  <a id="watches" class="page-scroll gotham-light fsize-14 pleft0" href="/all_product.php">JAM TANGAN</a>
                </li>
                <li id="straps">
-                  <a id="straps" class="page-scroll gotham-light fsize-14 fsize-14 " href="/straps/all-product">STRAP</a>
+                  <a id="straps" class="page-scroll gotham-light fsize-14 fsize-14 " href="/all_product.php">STRAP</a>
                </li>
                <li id="jewelry">
-                  <a id="jewelry" class="page-scroll gotham-light fsize-14 " href="/jewelry">PERHIASAN</a>
+                  <a id="jewelry" class="page-scroll gotham-light fsize-14 " href="/perhiasan.php">PERHIASAN</a>
                </li>
                <li id="accessories">
-                  <a id="accessories" class="page-scroll gotham-light fsize-14 " href="/accessories/all-product">AKSESORIS</a>
+                  <a id="accessories" class="page-scroll gotham-light fsize-14 " href="/all_product.php">AKSESORIS</a>
                </li>
                <li id="brands">
-                  <a id="brands" class="page-scroll gotham-light fsize-14 " href="/brands">BRAND</a>
+                  <a id="brands" class="page-scroll gotham-light fsize-14 " href="/brand.php">BRAND</a>
                </li>
                <li id="journal">
-                  <a id="journal" class="page-scroll gotham-light fsize-14 " href="/journal">JURNAL</a>
+                  <a id="journal" class="page-scroll gotham-light fsize-14 " href="/all_product.php">JURNAL</a>
                </li>
-               <li id="jurnal" class="page-scroll gotham-light"> <a id="jurnal" href="/sale" class="fcolore36969 fsize-14">SALE</a></li>
+               <li id="jurnal" class="page-scroll gotham-light"> <a id="jurnal" href="/all_product.php" class="fcolore36969 fsize-14">SALE</a></li>
             </ul>
             <ul class="col-lg-4 col-md-4 pull-right hidden-xs hidden-sm hidden-md nav navbar-nav box-iconchart">
                <li class="icons">
