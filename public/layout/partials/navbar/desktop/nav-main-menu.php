@@ -6,7 +6,7 @@
          <!-- Brand and toggle get grouped for better mobile display -->
          <div class="navbar-header page-scroll box-logo">
             <div class="hidden-xs hidden-sm hidden-md hidden-lg hidden-md">
-               <a href="">
+               <a href="/">
                <img src="/img/logos/navbar-logo.png" class="navbar-brand page-scroll default-logo navbarbrandbottom" style="display: none" id="logotwcco">
                </a>
             </div>
@@ -28,7 +28,7 @@
             <ul class="col-lg-2 col-md-2 clearleft box-logotwc">
                <div class="navbar-header page-scroll box-logo">
                   <div class="hidden-xs hidden-sm hidden-md">
-                     <a href="https://www.thewatch.co/">
+                     <a href="/">
                      <img src="https://thewatch.imgix.net/logos/logo-thewatchco-desktop.png?auto=compress" class="navbar-brand page-scroll default-logo" id="logotwc logo_desktop"> 
                      </a>
                   </div>
@@ -55,7 +55,7 @@
                   <a id="brands" class="page-scroll gotham-light fsize-14 " href="/brand.php">BRAND</a>
                </li>
                <li id="journal">
-                  <a id="journal" class="page-scroll gotham-light fsize-14 " href="/all_product.php">JURNAL</a>
+                  <a id="journal" class="page-scroll gotham-light fsize-14 " href="/jurnal.php">JURNAL</a>
                </li>
                <li id="jurnal" class="page-scroll gotham-light"> <a id="jurnal" href="/all_product.php" class="fcolore36969 fsize-14">SALE</a></li>
             </ul>
