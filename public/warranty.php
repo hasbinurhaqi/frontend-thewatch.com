@@ -80,15 +80,17 @@ TWC Engineering Team
       <div class="hidden-lg menu-header-gap" id="nav-gap"></div>
       <?php include 'layout/partials/scripts/mobile-behaviour.php'; ?>
       <!-- Page Header -->
-      <?php include 'layout/partials/carousel/carousel_journal.php'; ?>
+      <?php// include 'layout/partials/carousel/desktop/carousel.php'; ?>
       <?php// include 'layout/partials/carousel/mobile/carousel.php'; ?>
       <div id="o-wrapper" class="o-wrapper">
          <main class="o-content">
             <div class="o-container">
+               <script async="true" src="//ssp.adskom.com/tags/third-party-async/ZDE5M2JhZDktODM4MC00ODc3LWIwNTgtZTI2MTdlODc2YjAw"></script>
                <!--- HOMEPAGE SECTION -->
-               <?php include 'layout/partials/module/jurnal/init.php'; ?>
+               <?php include 'layout/partials/module/warranty/init.php'; ?>
                <hr>
                <a href="#" class="scrolls btn-top hidden-xs"><i class="button-top-scroll"></i></a>
+               <?php// include 'layout/partials/module/homepage/sections/seo_pages.php'; ?>
                <!-- FOOTER -->
                <section class="hidden-xs footer-top"></section>
                <?php include 'layout/partials/footer.php'; ?>
@@ -101,7 +103,6 @@ TWC Engineering Team
          </main>
       </div>
       <?php include 'layout/partials/scripts/libscripts.php'; ?>   
-
       
    </body>
 </html>

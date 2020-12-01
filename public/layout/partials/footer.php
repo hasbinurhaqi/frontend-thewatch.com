@@ -6,14 +6,14 @@
             <div class="hidden-xs hidden-sm hidden-md col-lg-6 col-md-6 col-sm-6 clearleft footer caption">
                <!--<span class="gotham-medium lspace2">THE WATCH CO.</span>-->
                <br><br> 
-               <div class="footer link"><a href="/about">TENTANG KAMI</a></div>
-               <div class="footer link"><a href="/store">LOKASI TOKO</a></div>
-               <div class="footer link"><a href="/contact">HUBUNGI KAMI</a></div>
-               <div class="footer link"><a href="/corporateorder">CORPORATE ORDER</a></div>
-               <div class="footer link"><a href="/warranty">GARANSI & SERVIS</a></div>
-               <div class="footer link"><a href="/faq">FAQ</a></div>
-               <div class="footer link"><a href="/privacy">KEBIJAKAN PRIVASI</a></div>
-               <div class="footer link"><a href="/shipping-information">INFORMASI PENGIRIMAN</a></div>
+               <div class="footer link"><a href="/about.php">TENTANG KAMI</a></div>
+               <div class="footer link"><a href="/store.php">LOKASI TOKO</a></div>
+               <div class="footer link"><a href="/contact.php">HUBUNGI KAMI</a></div>
+               <div class="footer link"><a href="/corporateorder.php">CORPORATE ORDER</a></div>
+               <div class="footer link"><a href="/warranty.php">GARANSI & SERVIS</a></div>
+               <div class="footer link"><a href="/faq.php">FAQ</a></div>
+               <div class="footer link"><a href="/privacy.php">KEBIJAKAN PRIVASI</a></div>
+               <div class="footer link"><a href="/shipping-information.php">INFORMASI PENGIRIMAN</a></div>
                </br>
                <div class="footer follow-us icons socmed btn-socmed">
                   <a href="http://www.facebook.com/TheWatchCo" target="_blank">

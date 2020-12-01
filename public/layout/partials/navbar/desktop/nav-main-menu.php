@@ -57,7 +57,7 @@
                <li id="journal">
                   <a id="journal" class="page-scroll gotham-light fsize-14 " href="/jurnal.php">JURNAL</a>
                </li>
-               <li id="jurnal" class="page-scroll gotham-light"> <a id="jurnal" href="/all_product.php" class="fcolore36969 fsize-14">SALE</a></li>
+               <li id="jurnal" class="page-scroll gotham-light"> <a id="jurnal" href="/sale.php" class="fcolore36969 fsize-14">SALE</a></li>
             </ul>
             <ul class="col-lg-4 col-md-4 pull-right hidden-xs hidden-sm hidden-md nav navbar-nav box-iconchart">
                <li class="icons">

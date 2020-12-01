@@ -101,7 +101,6 @@ TWC Engineering Team
          </main>
       </div>
       <?php include 'layout/partials/scripts/libscripts.php'; ?>   
-      <?php include 'layout/partials/scripts/allproduct_scripts.php'; ?>
 
       
    </body>
