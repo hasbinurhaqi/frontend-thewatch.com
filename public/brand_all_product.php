@@ -86,10 +86,10 @@ TWC Engineering Team
          <main class="o-content">
             <div class="o-container">
                <!--- HOMEPAGE SECTION -->
-               <?php include 'layout/partials/module/store/init.php'; ?>
+               <?php include 'layout/partials/module/brand_all_product/init.php'; ?>
                <hr>
                <a href="#" class="scrolls btn-top hidden-xs"><i class="button-top-scroll"></i></a>
-               <?php// include 'layout/partials/module/homepage/sections/seo_pages.php'; ?>
+               <?php include 'layout/partials/module/homepage/sections/seo_pages.php'; ?>
                <!-- FOOTER -->
                <section class="hidden-xs footer-top"></section>
                <?php include 'layout/partials/footer.php'; ?>
@@ -102,6 +102,8 @@ TWC Engineering Team
          </main>
       </div>
       <?php include 'layout/partials/scripts/libscripts.php'; ?>   
+      <?php include 'layout/partials/scripts/allproduct_scripts.php'; ?>
+
       
    </body>
 </html>

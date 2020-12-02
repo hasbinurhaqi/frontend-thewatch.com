@@ -6,20 +6,20 @@
             <ul class="mn-header brands col-lg-2 col-md-2 col-sm-2 pleft0 pright0 mtop0">
                <li class="brands caption title">JAM TANGAN</li>
                <li>
-                  <a class="gotham-light" href="/brand/aark-collective">
+                  <a class="gotham-light" href="/brand_all_product.php">
                   Aark Collective                                                                                                                                    </a>
                </li>
                <li>
-                  <a class="gotham-light" href="/brand/adidas">
+                  <a class="gotham-light" href="/brand_all_product.php">
                   Adidas                                                                                                                            <span class="menu-super-sale"> SALE</span>
                   </a>
                </li>
                <li>
-                  <a class="gotham-light" href="/brand/autodromo">
+                  <a class="gotham-light" href="/brand_all_product.php">
                   Autodromo                                                                                                                                    </a>
                </li>
                <li>
-                  <a class="gotham-light" href="/brand/beu-watches">
+                  <a class="gotham-light" href="/brand_all_product.php">
                   Beu Watches                                                                                                                                    </a>
                </li>
                <li>
@@ -54,7 +54,7 @@
                   </a>
                </li>
                <li>
-                  <a class="gotham-light" href="/brand/daniel-wellington">
+                  <a class="gotham-light" href="/brand_all_product.php">
                   Daniel Wellington                                                                                                                             <span class="menu-super"> HOT</span>
                   </a>
                </li>
@@ -133,7 +133,7 @@
                   Autodromo                                                                                                                                    </a>
                </li>
                <li>
-                  <a class="gotham-light" href="/brand/daniel-wellington">
+                  <a class="gotham-light" href="/brand_all_product.php">
                   Daniel Wellington                                                                                                                             <span class="menu-super"> HOT</span>
                   </a>
                </li>
@@ -159,7 +159,7 @@
             <ul class="mn-header brands col-lg-2 col-md-2 col-sm-2 pleft0 pright0 mtop0">
                <li class="brands caption title">PERHIASAN</li>
                <li>
-                  <a class="gotham-light" href="/brand/daniel-wellington">
+                  <a class="gotham-light" href="/brand_all_product.php">
                   Daniel Wellington                                                                                                                             <span class="menu-super"> HOT</span>
                   </a>
                </li>

@@ -85,7 +85,6 @@ TWC Engineering Team
       <div id="o-wrapper" class="o-wrapper">
          <main class="o-content">
             <div class="o-container">
-               <script async="true" src="//ssp.adskom.com/tags/third-party-async/ZDE5M2JhZDktODM4MC00ODc3LWIwNTgtZTI2MTdlODc2YjAw"></script>
                <!--- HOMEPAGE SECTION -->
                <?php include 'layout/partials/module/faq/init.php'; ?>
                <hr>

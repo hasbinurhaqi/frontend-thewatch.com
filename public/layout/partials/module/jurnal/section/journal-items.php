@@ -12,7 +12,7 @@
             PILIHAN TAS UNTUK KE PESTA, KANTOR, DAN OLAHRAGA 
          </div>
          <p>Tas merupakan sebuah wadah yang digunakan untuk menyimpan keperluan bepergian. Material                    
-            <a class="read-more" href="/journal/detail/pilihan-tas-untuk-ke-pesta-kantor-dan-olahraga">
+            <a class="read-more" href="/jurnal_detil.php">
             read more...
             </a>
          </p>
@@ -31,7 +31,7 @@
             PILIHAN MATERIAL DAN JENIS PERHIASAN UNTUK WANITA 
          </div>
          <p>Perhiasan merupakan benda wajib yang harus dimiliki oleh kaum wanita untuk merias ataup                    
-            <a class="read-more" href="/journal/detail/pilihan-material-dan-jenis-perhiasan-untuk-wanita">
+            <a class="read-more" href="/jurnal_detil.php">
             read more...
             </a>
          </p>
@@ -50,7 +50,7 @@
             4 HAL YANG PERLU DIPERSIAPKAN MENJELANG HARBOLNAS 
          </div>
          <p>Dewasa ini, belanja online sudah menjadi kebutuhan sehari-hari. Bagaimana tidak, belanj                    
-            <a class="read-more" href="/journal/detail/4-hal-yang-perlu-dipersiapkan-menjelang-harbolnas">
+            <a class="read-more" href="/jurnal_detil.php">
             read more...
             </a>
          </p>
@@ -88,7 +88,7 @@
             OLIVIA BURTON UNDER THE SEA COLLECTION LAUNCH 
          </div>
          <p>Olivia Burton Indonesia held an event to launch their new Under the Sea watch and jewel                    
-            <a class="read-more" href="/journal/detail/olivia-burton-under-the-sea-collection-launch">
+            <a class="read-more" href="/jurnal_detil.php">
             read more...
             </a>
          </p>
@@ -108,7 +108,7 @@
          </div>
          <p>
             <em>Public Space </em>merupakan sarana yang dibangun untuk kepentingan umum oleh pemeri                    
-            <a class="read-more" href="/journal/detail/inspirasi-interior-desain-public-space">
+            <a class="read-more" href="/jurnal_detil.php">
             read more...
             </a>
          </p>
@@ -146,7 +146,7 @@
             PAMPERING DAY WITH OLIVIA BURTON INDONESIA 
          </div>
          <p>Olivia Burton Indonesia held a private event to celebrate the launch of the new SS19 ti                    
-            <a class="read-more" href="/journal/detail/pampering-day-with-olivia-burton-indonesia">
+            <a class="read-more" href="/jurnal_detil.php">
             read more...
             </a>
          </p>
