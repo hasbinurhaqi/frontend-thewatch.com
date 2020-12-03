@@ -11,4 +11,6 @@
       <div class="col-lg-12 col-md-12 col-sm-12 hidden-xs myprofile order-status clearleft clearright btn-edit-delete-shipping"></div>
    </div>
    <div class="hidden-lg hidden-md hidden-sm col-xs-12 order-status clearleft clearright"></div>
+
+   <?php include 'layout/partials/module/profile/section/list_shipping_address.php'; ?>
 </div>

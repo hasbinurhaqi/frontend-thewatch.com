@@ -33,6 +33,10 @@
             $shipping_active = "active";
          }
 
+         if ($_GET['pages'] == "order_detil") {
+            $order_active = "active";
+         }
+
 
       }
       else {
@@ -89,6 +93,10 @@
 
                if ($_GET['pages'] == "create_shipping") {
                   include 'layout/partials/module/profile/section/create_shipping.php';
+               }
+
+               if ($_GET['pages'] == "order_detil") {
+                  include 'layout/partials/module/profile/section/order_detil.php';
                }
 
 

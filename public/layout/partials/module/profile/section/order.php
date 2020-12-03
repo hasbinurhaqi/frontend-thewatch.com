@@ -139,10 +139,8 @@ function payVosPay(orderId){
       <div class="talign-center width100 col-lg-12 col-md-12 col-sm-12 col-xs-12 remove-padding col-lg-offset-2 clearright pleftpage0 clearrightcopy pleftpagemobilepag1"></div>
    </div>
    <div class="hidden-lg col-sm-12 hidden-md hidden-xs new-line" style="padding-top: 98px;"></div>
+  <?php include 'layout/partials/module/profile/section/list_order.php'; ?>
 </div>
-</div>
-</div>
-</div>undefined</section>undefined
 <style type="text/css">
    .non-active{
 		display: none;
